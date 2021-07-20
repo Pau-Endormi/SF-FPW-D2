@@ -1,0 +1,1 @@
+actions_DjangoShell.py - файл со списоком всех команд, которые нужно запустить в «Django shell».
